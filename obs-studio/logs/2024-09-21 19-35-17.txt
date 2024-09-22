@@ -1,0 +1,158 @@
+19:35:17.520: [Safe Mode] Unclean shutdown detected!
+19:35:24.806: [Safe Mode] User elected to launch normally.
+19:35:24.807: Platform: Wayland
+19:35:24.807: CPU Name: AMD Ryzen 5 5600X 6-Core Processor
+19:35:24.807: CPU Speed: 2200.000MHz
+19:35:24.807: Physical Cores: 6, Logical Cores: 12
+19:35:24.807: Physical Memory: 15915MB Total, 6966MB Free
+19:35:24.807: Kernel Version: Linux 6.10.7-arch1-1
+19:35:24.807: Distribution: "EndeavourOS" Unknown
+19:35:24.807: Desktop Environment: Hyprland (Hyprland)
+19:35:24.807: Session Type: wayland
+19:35:24.808: Qt Version: 6.7.2 (runtime), 6.7.2 (compiled)
+19:35:24.808: Portable mode: false
+19:35:24.822: OBS 30.2.1-1 (linux)
+19:35:24.822: ---------------------------------
+19:35:24.823: ---------------------------------
+19:35:24.823: audio settings reset:
+19:35:24.823: 	samples per sec: 48000
+19:35:24.823: 	speakers:        2
+19:35:24.823: 	max buffering:   960 milliseconds
+19:35:24.823: 	buffering type:  dynamically increasing
+19:35:24.827: ---------------------------------
+19:35:24.827: Initializing OpenGL...
+19:35:24.827: Using EGL/Wayland
+19:35:24.853: Initialized EGL 1.5
+19:35:24.873: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1070/PCIe/SSE2
+19:35:24.873: OpenGL loaded successfully, version 3.3.0 NVIDIA 560.35.03, shading language 3.30 NVIDIA via Cg compiler
+19:35:24.890: ---------------------------------
+19:35:24.890: video settings reset:
+19:35:24.890: 	base resolution:   1920x1080
+19:35:24.890: 	output resolution: 1920x1080
+19:35:24.890: 	downscale filter:  Bicubic
+19:35:24.890: 	fps:               30/1
+19:35:24.890: 	format:            NV12
+19:35:24.890: 	YUV mode:          Rec. 709/Partial
+19:35:24.891: NV12 texture support enabled
+19:35:24.891: P010 texture support not available
+19:35:24.891: Audio monitoring device:
+19:35:24.891: 	name: Default
+19:35:24.891: 	id: default
+19:35:24.891: ---------------------------------
+19:35:24.897: Failed to load 'en-GB' text for module: '3d-effect.so'
+19:35:24.897: [3D Effect] loaded version 0.1.0
+19:35:24.903: Failed to load 'en-US' text for module: 'decklink-captions.so'
+19:35:24.909: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+19:35:24.914: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:35:24.914: Failed to initialize module 'decklink.so'
+19:35:25.022: [pipewire] Available capture sources:
+19:35:25.022: [pipewire]     - Monitor source
+19:35:25.022: [pipewire]     - Window source
+19:35:25.082: NVENC supported
+19:35:25.082: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+19:35:25.082: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+19:35:25.082: FFmpeg VAAPI H264 encoding not supported
+19:35:25.082: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+19:35:25.082: FFmpeg VAAPI AV1 encoding not supported
+19:35:25.082: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+19:35:25.082: FFmpeg VAAPI HEVC encoding not supported
+19:35:25.160: ---------------------------------
+19:35:25.160:   Loaded Modules:
+19:35:25.160:     text-freetype2.so
+19:35:25.160:     rtmp-services.so
+19:35:25.160:     obs-x264.so
+19:35:25.160:     obs-webrtc.so
+19:35:25.160:     obs-vst.so
+19:35:25.160:     obs-transitions.so
+19:35:25.160:     obs-qsv11.so
+19:35:25.160:     obs-outputs.so
+19:35:25.160:     obs-libfdk.so
+19:35:25.160:     obs-filters.so
+19:35:25.160:     obs-ffmpeg.so
+19:35:25.160:     linux-v4l2.so
+19:35:25.160:     linux-pulseaudio.so
+19:35:25.160:     linux-pipewire.so
+19:35:25.160:     linux-jack.so
+19:35:25.160:     linux-capture.so
+19:35:25.160:     linux-alsa.so
+19:35:25.160:     image-source.so
+19:35:25.160:     frontend-tools.so
+19:35:25.160:     decklink-output-ui.so
+19:35:25.160:     decklink-captions.so
+19:35:25.160:     3d-effect.so
+19:35:25.160: ---------------------------------
+19:35:25.161: ---------------------------------
+19:35:25.161: Available Encoders:
+19:35:25.161:   Video Encoders:
+19:35:25.161: 	- ffmpeg_svt_av1 (SVT-AV1)
+19:35:25.161: 	- ffmpeg_aom_av1 (AOM AV1)
+19:35:25.161: 	- jim_nvenc (NVIDIA NVENC H.264)
+19:35:25.161: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+19:35:25.161: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+19:35:25.161: 	- obs_x264 (x264)
+19:35:25.161:   Audio Encoders:
+19:35:25.161: 	- ffmpeg_aac (FFmpeg AAC)
+19:35:25.161: 	- ffmpeg_opus (FFmpeg Opus)
+19:35:25.161: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+19:35:25.161: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+19:35:25.161: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+19:35:25.161: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+19:35:25.161: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+19:35:25.161: 	- libfdk_aac (libfdk AAC)
+19:35:25.161: ==== Startup complete ===============================================
+19:35:25.208: All scene data cleared
+19:35:25.208: ------------------------------------------------
+19:35:25.211: [obs-scripting]: Loaded lua script: unfish.lua
+19:35:25.213: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.3) 15.0.0'
+19:35:25.214: pulse-input: Audio format: s16le, 16000 Hz, 1 channels
+19:35:25.214: pulse-input: Started recording from 'bluez_output.E8_EE_CC_5D_49_59.1.monitor' (default)
+19:35:25.214: [Loaded global audio device]: 'Desktop Audio'
+19:35:25.214: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.3) 15.0.0'
+19:35:25.214: pulse-input: Audio format: float32le, 48000 Hz, 1 channels
+19:35:25.214: pulse-input: Started recording from 'bluez_input.E8:EE:CC:5D:49:59' (default)
+19:35:25.214: [Loaded global audio device]: 'Mic/Aux'
+19:35:25.214: v4l2-input: Start capture from /dev/video0
+19:35:25.386: v4l2-input: Input: 0
+19:35:25.387: v4l2-input: Resolution: 1280x720
+19:35:25.387: v4l2-input: Pixelformat: BGR3
+19:35:25.387: v4l2-input: Linesize: 3840 Bytes
+19:35:25.387: v4l2-input: Framerate: 30.00 fps
+19:35:25.388: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+19:35:25.389: PipeWire initialized
+19:35:25.390: Switched to scene 'Scene'
+19:35:25.390: ------------------------------------------------
+19:35:25.390: Loaded scenes:
+19:35:25.390: - scene 'Scene':
+19:35:25.390:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+19:35:25.390:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+19:35:25.390:         - filter: '3D Effect' (3d_effect_filter)
+19:35:25.390:         - filter: 'UnFish/Fish Lens' (filter-fish-lens)
+19:35:25.390: ------------------------------------------------
+19:35:25.414: [pipewire] Screencast session created
+19:35:25.762: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+19:35:25.762: 
+19:35:32.409: [pipewire] Asking for monitor and window
+19:35:32.411: [pipewire] source selected, setting up screencast
+19:35:32.414: [pipewire] Server version: 1.2.3
+19:35:32.414: [pipewire] Library version: 1.2.3
+19:35:32.414: [pipewire] Header version: 1.2.1
+19:35:32.414: [pipewire] Created stream 0x5c962954cd40
+19:35:32.414: [pipewire] Stream 0x5c962954cd40 state: "connecting" (error: none)
+19:35:32.414: [pipewire] Playing stream 0x5c962954cd40
+19:35:32.414: [pipewire] Stream 0x5c962954cd40 state: "paused" (error: none)
+19:35:32.429: [pipewire] Negotiated format:
+19:35:32.429: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:35:32.429: [pipewire]     Modifier: 0x0
+19:35:32.429: [pipewire]     Size: 1920x1080
+19:35:32.429: [pipewire]     Framerate: 0/1
+19:35:32.429: [pipewire] Negotiated format:
+19:35:32.429: [pipewire]     Format: 8 (Spa:Enum:VideoFormat:BGRx)
+19:35:32.429: [pipewire]     Modifier: 0x300000000cdb014
+19:35:32.429: [pipewire]     Size: 1920x1080
+19:35:32.429: [pipewire]     Framerate: 0/1
+19:35:32.429: [pipewire] Stream 0x5c962954cd40 state: "streaming" (error: none)
+19:35:45.276: Virtual camera started
+19:35:45.277: ==== Virtual Camera Start ==========================================
+19:35:45.277: Starting Virtual Camera output to Program
+20:10:10.370: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Mic/Aux)
+20:10:10.370: 

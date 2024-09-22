@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+gh/
+*dirs*
+discord/
+vesktop/
+WebCord/
+kitty/
+emacs/

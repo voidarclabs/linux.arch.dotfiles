@@ -1,0 +1,8 @@
+import = ["~/.config/alacritty/gruvbox.toml"]
+
+[font]
+normal={family="FiraMono Nerd Font", style="regular"}
+
+[window]
+opacity= 0.75
+

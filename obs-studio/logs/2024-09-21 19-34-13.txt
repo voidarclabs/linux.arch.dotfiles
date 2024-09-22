@@ -1,0 +1,149 @@
+19:34:13.298: Platform: Wayland
+19:34:13.298: CPU Name: AMD Ryzen 5 5600X 6-Core Processor
+19:34:13.298: CPU Speed: 4626.564MHz
+19:34:13.298: Physical Cores: 6, Logical Cores: 12
+19:34:13.298: Physical Memory: 15915MB Total, 5388MB Free
+19:34:13.298: Kernel Version: Linux 6.10.7-arch1-1
+19:34:13.298: Distribution: "EndeavourOS" Unknown
+19:34:13.298: Desktop Environment: Hyprland (Hyprland)
+19:34:13.298: Session Type: wayland
+19:34:13.299: Qt Version: 6.7.2 (runtime), 6.7.2 (compiled)
+19:34:13.299: Portable mode: false
+19:34:13.332: OBS 30.2.1-1 (linux)
+19:34:13.332: ---------------------------------
+19:34:13.332: ---------------------------------
+19:34:13.332: audio settings reset:
+19:34:13.332: 	samples per sec: 48000
+19:34:13.332: 	speakers:        2
+19:34:13.332: 	max buffering:   960 milliseconds
+19:34:13.332: 	buffering type:  dynamically increasing
+19:34:13.336: ---------------------------------
+19:34:13.336: Initializing OpenGL...
+19:34:13.336: Using EGL/Wayland
+19:34:13.363: Initialized EGL 1.5
+19:34:13.382: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce GTX 1070/PCIe/SSE2
+19:34:13.382: OpenGL loaded successfully, version 3.3.0 NVIDIA 560.35.03, shading language 3.30 NVIDIA via Cg compiler
+19:34:13.400: ---------------------------------
+19:34:13.400: video settings reset:
+19:34:13.400: 	base resolution:   1920x1080
+19:34:13.400: 	output resolution: 1920x1080
+19:34:13.400: 	downscale filter:  Bicubic
+19:34:13.400: 	fps:               30/1
+19:34:13.400: 	format:            NV12
+19:34:13.400: 	YUV mode:          Rec. 709/Partial
+19:34:13.400: NV12 texture support enabled
+19:34:13.400: P010 texture support not available
+19:34:13.401: Audio monitoring device:
+19:34:13.401: 	name: Default
+19:34:13.401: 	id: default
+19:34:13.401: ---------------------------------
+19:34:13.408: Failed to load 'en-GB' text for module: '3d-effect.so'
+19:34:13.408: [3D Effect] loaded version 0.1.0
+19:34:13.413: Failed to load 'en-US' text for module: 'decklink-captions.so'
+19:34:13.419: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+19:34:13.424: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+19:34:13.424: Failed to initialize module 'decklink.so'
+19:34:13.532: [pipewire] Available capture sources:
+19:34:13.532: [pipewire]     - Monitor source
+19:34:13.532: [pipewire]     - Window source
+19:34:13.588: NVENC supported
+19:34:13.588: LIBVA_DRIVER_NAME variable is set, this could prevent FFmpeg VAAPI from working correctly
+19:34:13.588: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+19:34:13.589: FFmpeg VAAPI H264 encoding not supported
+19:34:13.589: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+19:34:13.589: FFmpeg VAAPI AV1 encoding not supported
+19:34:13.589: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+19:34:13.589: FFmpeg VAAPI HEVC encoding not supported
+19:34:13.664: ---------------------------------
+19:34:13.664:   Loaded Modules:
+19:34:13.664:     text-freetype2.so
+19:34:13.664:     rtmp-services.so
+19:34:13.664:     obs-x264.so
+19:34:13.664:     obs-webrtc.so
+19:34:13.664:     obs-vst.so
+19:34:13.664:     obs-transitions.so
+19:34:13.664:     obs-qsv11.so
+19:34:13.664:     obs-outputs.so
+19:34:13.664:     obs-libfdk.so
+19:34:13.664:     obs-filters.so
+19:34:13.664:     obs-ffmpeg.so
+19:34:13.664:     linux-v4l2.so
+19:34:13.664:     linux-pulseaudio.so
+19:34:13.664:     linux-pipewire.so
+19:34:13.664:     linux-jack.so
+19:34:13.664:     linux-capture.so
+19:34:13.664:     linux-alsa.so
+19:34:13.664:     image-source.so
+19:34:13.664:     frontend-tools.so
+19:34:13.664:     decklink-output-ui.so
+19:34:13.664:     decklink-captions.so
+19:34:13.664:     3d-effect.so
+19:34:13.664: ---------------------------------
+19:34:13.664: ---------------------------------
+19:34:13.664: Available Encoders:
+19:34:13.664:   Video Encoders:
+19:34:13.664: 	- ffmpeg_svt_av1 (SVT-AV1)
+19:34:13.664: 	- ffmpeg_aom_av1 (AOM AV1)
+19:34:13.664: 	- jim_nvenc (NVIDIA NVENC H.264)
+19:34:13.664: 	- jim_hevc_nvenc (NVIDIA NVENC HEVC)
+19:34:13.664: 	- jim_av1_nvenc (NVIDIA NVENC AV1)
+19:34:13.664: 	- obs_x264 (x264)
+19:34:13.664:   Audio Encoders:
+19:34:13.664: 	- ffmpeg_aac (FFmpeg AAC)
+19:34:13.664: 	- ffmpeg_opus (FFmpeg Opus)
+19:34:13.664: 	- ffmpeg_pcm_s16le (FFmpeg PCM (16-bit))
+19:34:13.664: 	- ffmpeg_pcm_s24le (FFmpeg PCM (24-bit))
+19:34:13.664: 	- ffmpeg_pcm_f32le (FFmpeg PCM (32-bit float))
+19:34:13.664: 	- ffmpeg_alac (FFmpeg ALAC (24-bit))
+19:34:13.664: 	- ffmpeg_flac (FFmpeg FLAC (16-bit))
+19:34:13.664: 	- libfdk_aac (libfdk AAC)
+19:34:13.664: ==== Startup complete ===============================================
+19:34:13.718: All scene data cleared
+19:34:13.718: ------------------------------------------------
+19:34:13.720: [obs-scripting]: Loaded lua script: unfish.lua
+19:34:13.723: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.3) 15.0.0'
+19:34:13.723: pulse-input: Audio format: s16le, 16000 Hz, 1 channels
+19:34:13.723: pulse-input: Started recording from 'bluez_output.E8_EE_CC_5D_49_59.1.monitor' (default)
+19:34:13.723: [Loaded global audio device]: 'Desktop Audio'
+19:34:13.723: pulse-input: Server name: 'PulseAudio (on PipeWire 1.2.3) 15.0.0'
+19:34:13.724: pulse-input: Audio format: float32le, 48000 Hz, 1 channels
+19:34:13.724: pulse-input: Started recording from 'bluez_input.E8:EE:CC:5D:49:59' (default)
+19:34:13.724: [Loaded global audio device]: 'Mic/Aux'
+19:34:13.724: v4l2-input: Start capture from /dev/video0
+19:34:13.724: v4l2-input: Input: 0
+19:34:13.725: v4l2-input: Resolution: 1280x720
+19:34:13.725: v4l2-input: Pixelformat: BGR3
+19:34:13.725: v4l2-input: Linesize: 3840 Bytes
+19:34:13.725: v4l2-input: Framerate: 30.00 fps
+19:34:13.726: v4l2-input: /dev/video0: select timeout set to 166666 (5x frame periods)
+19:34:13.726: PipeWire initialized
+19:34:13.727: Switched to scene 'Scene'
+19:34:13.727: ------------------------------------------------
+19:34:13.727: Loaded scenes:
+19:34:13.727: - scene 'Scene':
+19:34:13.727:     - source: 'Screen Capture (PipeWire)' (pipewire-screen-capture-source)
+19:34:13.727:     - source: 'Video Capture Device (V4L2)' (v4l2_input)
+19:34:13.727:         - filter: '3D Effect' (3d_effect_filter)
+19:34:13.727:         - filter: 'UnFish/Fish Lens' (filter-fish-lens)
+19:34:13.727: ------------------------------------------------
+19:34:14.271: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+19:34:14.271: 
+19:34:22.279: Virtual camera started
+19:34:22.280: ==== Virtual Camera Start ==========================================
+19:34:22.280: Starting Virtual Camera output to Program
+19:34:29.402: PipeWire initialized
+19:34:29.897: PipeWire initialized
+19:34:30.024: PipeWire initialized
+19:34:30.182: PipeWire initialized
+19:34:30.332: PipeWire initialized
+19:34:30.482: PipeWire initialized
+19:34:38.727: [pipewire] Error creating screencast session: Timeout was reached
+19:34:50.192: PipeWire initialized
+19:34:54.403: [pipewire] Error creating screencast session: Timeout was reached
+19:34:54.897: [pipewire] Error creating screencast session: Timeout was reached
+19:34:55.024: [pipewire] Error creating screencast session: Timeout was reached
+19:34:55.182: [pipewire] Error creating screencast session: Timeout was reached
+19:34:55.332: [pipewire] Error creating screencast session: Timeout was reached
+19:34:55.482: [pipewire] Error creating screencast session: Timeout was reached
+19:35:01.528: The Wayland connection broke. Did the Wayland compositor die?
+19:35:01.528: eglSwapBuffers failed
