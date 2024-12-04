@@ -1,0 +1,6 @@
+
+[Default Applications]
+x-scheme-handler/fdm=freedownloadmanager_fdm_up.desktop
+x-scheme-handler/magnet=freedownloadmanager_magnet_up.desktop
+application/x-bittorrent=freedownloadmanager_torrent.desktop
+x-scheme-handler/discord-1221314350216646828=discord-1221314350216646828.desktop
